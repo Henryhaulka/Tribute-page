@@ -1,0 +1,10 @@
+#image{
+    margin: auto;
+    width:100%;
+    max-width: 625px;
+    display:block;
+}
+body{
+    text-align: center;
+    width:100%;
+}
