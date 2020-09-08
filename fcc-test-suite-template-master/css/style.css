@@ -25,6 +25,9 @@
 #footer {
     font-size: 35px;
 }
+#image {
+    border-radius: 20px;
+}
 a {
     text-decoration: none;
     color: black;
